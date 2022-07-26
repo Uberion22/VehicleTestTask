@@ -18,7 +18,7 @@
             }
         }
 
-        public PassengerCar(VehicleEngineType vehicleEngineType, float averageFuelConsumption, float maxFuelTankVolume, float averageSpeed, int maxNumberOfPassengers) 
+        public PassengerCar(VehicleType vehicleEngineType, float averageFuelConsumption, float maxFuelTankVolume, float averageSpeed, int maxNumberOfPassengers) 
             : base(vehicleEngineType, averageFuelConsumption, maxFuelTankVolume, averageSpeed)
         {
             MaxNumberOfPassengers = maxNumberOfPassengers;

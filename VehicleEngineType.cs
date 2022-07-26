@@ -1,8 +1,9 @@
 ﻿namespace VehicleTestTask
 {
-    enum VehicleEngineType
+    enum VehicleType
     {
-        Gasoline,
-        Diesel
+        Ground,
+        Air,
+        Water
     }
 }

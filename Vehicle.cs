@@ -2,7 +2,7 @@
 {
     internal abstract class Vehicle
     {
-        public  VehicleEngineType VehicleEngineType { get; }
+        public  VehicleType VehicleEngineType { get; }
 
         public float AverageFuelConsumption 
         {
@@ -71,7 +71,7 @@
         private float _maxCargoWeight;
         private int _maxNumberOfPassengers;
 
-        protected Vehicle(VehicleEngineType vehicleEngineType, float averageFuelConsumption, float maxFuelTankVolume,float averageSpeed)
+        protected Vehicle(VehicleType vehicleEngineType, float averageFuelConsumption, float maxFuelTankVolume,float averageSpeed)
         {
             VehicleEngineType = vehicleEngineType;
             _averageFuelConsumption = averageFuelConsumption;

@@ -15,7 +15,7 @@
             get => _cargoWeight;
         }
 
-        public FreightСar(VehicleEngineType vehicleEngineType, float averageFuelConsumption, float maxFuelTankVolume, float averageSpeed, float maxCargoWeight)
+        public FreightСar(VehicleType vehicleEngineType, float averageFuelConsumption, float maxFuelTankVolume, float averageSpeed, float maxCargoWeight)
             : base(vehicleEngineType, averageFuelConsumption, maxFuelTankVolume, averageSpeed)
         {
             MaxCargoWeight = maxCargoWeight;

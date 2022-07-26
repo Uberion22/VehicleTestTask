@@ -1,0 +1,15 @@
+C:\Users\Oleg\source\repos\VehicleTestTask\VehicleTestTask\bin\Debug\net6.0\VehicleTestTask.exe
+C:\Users\Oleg\source\repos\VehicleTestTask\VehicleTestTask\bin\Debug\net6.0\VehicleTestTask.deps.json
+C:\Users\Oleg\source\repos\VehicleTestTask\VehicleTestTask\bin\Debug\net6.0\VehicleTestTask.runtimeconfig.json
+C:\Users\Oleg\source\repos\VehicleTestTask\VehicleTestTask\bin\Debug\net6.0\VehicleTestTask.dll
+C:\Users\Oleg\source\repos\VehicleTestTask\VehicleTestTask\bin\Debug\net6.0\VehicleTestTask.pdb
+C:\Users\Oleg\source\repos\VehicleTestTask\VehicleTestTask\obj\Debug\net6.0\VehicleTestTask.csproj.AssemblyReference.cache
+C:\Users\Oleg\source\repos\VehicleTestTask\VehicleTestTask\obj\Debug\net6.0\VehicleTestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleg\source\repos\VehicleTestTask\VehicleTestTask\obj\Debug\net6.0\VehicleTestTask.AssemblyInfoInputs.cache
+C:\Users\Oleg\source\repos\VehicleTestTask\VehicleTestTask\obj\Debug\net6.0\VehicleTestTask.AssemblyInfo.cs
+C:\Users\Oleg\source\repos\VehicleTestTask\VehicleTestTask\obj\Debug\net6.0\VehicleTestTask.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\source\repos\VehicleTestTask\VehicleTestTask\obj\Debug\net6.0\VehicleTestTask.dll
+C:\Users\Oleg\source\repos\VehicleTestTask\VehicleTestTask\obj\Debug\net6.0\refint\VehicleTestTask.dll
+C:\Users\Oleg\source\repos\VehicleTestTask\VehicleTestTask\obj\Debug\net6.0\VehicleTestTask.pdb
+C:\Users\Oleg\source\repos\VehicleTestTask\VehicleTestTask\obj\Debug\net6.0\VehicleTestTask.genruntimeconfig.cache
+C:\Users\Oleg\source\repos\VehicleTestTask\VehicleTestTask\obj\Debug\net6.0\ref\VehicleTestTask.dll

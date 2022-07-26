@@ -78,9 +78,7 @@
             _maxFuelTankVolume = maxFuelTankVolume;
             _averageSpeed = averageSpeed;
         }
-
-
-
+        
         /// <summary>
         /// Get the maximum trip distance by remaining fuel level or full tank fuel level.
         /// </summary>
